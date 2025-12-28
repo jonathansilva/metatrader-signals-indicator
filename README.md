@@ -25,6 +25,6 @@
 4. Acesse o menu *Inserir > Indicadores > Personalizar* e procure pelo Custom AVG
 5. Clique em *Dependências*, permita o uso de DLL externo e clique em OK
 
-![signal](https://github.com/jonathansilva/metatrader-signals-indicator/blob/master/screenshots/signal.png?raw=true)
+![signal](screenshots/signal.png)
 
-![takes](https://github.com/jonathansilva/metatrader-signals-indicator/blob/master/screenshots/takes.png?raw=true)
+![takes](screenshots/takes.png)
